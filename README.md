@@ -1,2 +1,2 @@
-# NodeJS_2-Tier-Roboshop
+# NodeJS_3-Tier-Roboshop
 Roboshop for NodeJS and mongoDB
